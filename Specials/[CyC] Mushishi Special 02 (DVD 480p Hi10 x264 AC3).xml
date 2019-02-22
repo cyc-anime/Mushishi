@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionUID>1877873494488346889</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>4306602529167512833</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:04:30.236633333</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3630974634182480483</ChapterUID>
+      <ChapterTimeStart>00:04:30.236633333</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:12.218333333</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1489419459838245622</ChapterUID>
+      <ChapterTimeStart>00:09:12.218333333</ChapterTimeStart>
+      <ChapterTimeEnd>00:15:05.804900000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Part C</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>8852290604189129299</ChapterUID>
+      <ChapterTimeStart>00:15:05.804900000</ChapterTimeStart>
+      <ChapterTimeEnd>00:19:25.297466666</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Part D</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
